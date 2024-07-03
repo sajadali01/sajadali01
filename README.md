@@ -1,4 +1,7 @@
-## Hi there 👋
+# 💫 About Me:
+**Aspiring Artificial Intelligence professional currently pursuing a degree at FAST University Karachi. With a strong foundation in computer science and a passion for innovative technology, I specialize in programming and software development. My technical skills include proficiency in Python, C++, C, and Java, along with experience in creating graphical user interfaces using Python (Pygame) and C++ (SFML).**
+
+**I am dedicated to leveraging my skills to solve complex problems and contribute to cutting-edge projects in the AI domain. My academic journey has equipped me with a robust understanding of machine learning, data analysis, and algorithm development, positioning me to excel in dynamic and challenging environments.**
 
 <!--
 **sajadali01/sajadali01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
