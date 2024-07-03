@@ -5,7 +5,7 @@
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/sajad-ali-020b592b4) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sajad-ali-020b592b4/) 
 <!--
 **sajadali01/sajadali01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
